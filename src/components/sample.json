@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Jason Owens",
+      "title": "NBA play-in: White-hot Kyrie Irving leads Nets past Cavs into playoff matchup with Celtics - Yahoo Sports",
+      "description": "This is the Nets team nobody wanted to see in the first round of the playoffs.",
+      "url": "https://sports.yahoo.com/nba-play-in-white-hot-kyrie-irving-leads-nets-past-cavs-into-playoff-matchup-with-celtics-013022583.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uEoxfKFw_6203B7GiyNdew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-04/a8374920-bac2-11ec-97ff-a739161bff48",
+      "publishedAt": "2022-04-13T01:30:00Z",
+      "content": "This is the Brooklyn Nets team nobody wanted to see in the first round of the playoffs.\r\nNow the Boston Celtics have them.\r\nThe Nets opened a big early lead on Tuesday then held off a late Cleveland … [+3155 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Scottie Andrew",
+      "title": "Gilbert Gottfried, comedian and actor, has died - CNN",
+      "description": "Gilbert Gottfried, a comedian and film and television actor with a distinctly memorable voice, has died after a long illness, his family announced on Tuesday.",
+      "url": "https://www.cnn.com/2022/04/12/entertainment/gilbert-gottfried-death/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220412153942-gilbert-gottfried-file-2009-super-tease.jpg",
+      "publishedAt": "2022-04-13T01:09:00Z",
+      "content": "(CNN)Gilbert Gottfried, a comedian and film and television actor with a distinctly memorable voice, has died after a long illness, his family announced on Tuesday.\r\n\"We are heartbroken to announce th… [+3069 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Matt Clinch, Sam Meredith, Amanda Macias, Christina Wilkie",
+      "title": "Biden calls Putin's actions in Ukraine 'genocide'; Putin warns Russia cannot be isolated from the West - CNBC",
+      "description": "U.K. intelligence suggests that Russian forces are preparing for what is expected to be a large and more focused push into the east of Ukraine.",
+      "url": "https://www.cnbc.com/2022/04/12/russia-ukraine-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107042724-1649256594423-gettyimages-1239765976-AFP_327Q8C2.jpeg?v=1649756942&w=1920&h=1080",
+      "publishedAt": "2022-04-13T00:52:00Z",
+      "content": "Secretary of State Antony Blinken and Defense Secretary Lloyd Austin are hosting their Indian counterparts in Washington this week and making the case that India should phase out its strategic relati… [+1526 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Kari Paul",
+      "title": "Twitter investor sues Elon Musk for failure to promptly disclose his shares - The Guardian",
+      "description": "Musk took several weeks to reveal his stake, violating federal law requiring disclosure within 10 days",
+      "url": "https://amp.theguardian.com/technology/2022/apr/12/elon-musk-twitter-lawsuit-shares",
+      "urlToImage": null,
+      "publishedAt": "2022-04-13T00:48:00Z",
+      "content": "Elon MuskMusk took several weeks to reveal his stake, violating federal law requiring disclosure within 10 days\r\nTue 12 Apr 2022 20.46 EDT\r\nA Twitter shareholder is suing Elon Musk for failing to dis… [+2782 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Gwynn Guilford",
+      "title": "U.S. Inflation Accelerated to 8.5% in March, Hitting Four-Decade High - The Wall Street Journal",
+      "description": "Consumer-price index increase from year earlier driven by skyrocketing energy and food costs",
+      "url": "https://www.wsj.com/articles/us-inflation-consumer-price-index-march-2022-11649725215",
+      "urlToImage": "https://images.wsj.net/im-522571/social",
+      "publishedAt": "2022-04-13T00:32:00Z",
+      "content": "U.S. inflation surged to a new four-decade high of 8.5% in March from the same month a year ago, driven by skyrocketing energy and food costs, supply constraints and strong consumer demand. \r\nThe Lab… [+357 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Anmar Frangoul",
+      "title": "Japanese car giant Honda targets EV expansion, earmarks billions for R&D - CNBC",
+      "description": "Honda is one of several companies attempting to expand its portfolio of electric vehicles.",
+      "url": "https://www.cnbc.com/2022/04/13/japanese-car-giant-honda-targets-ev-expansion-earmarks-billions-for-rd.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107045615-1649772600408-gettyimages-1309114384-imgp4217.jpeg?v=1649772830&w=1920&h=1080",
+      "publishedAt": "2022-04-13T00:16:00Z",
+      "content": "Honda plans to invest around 5 trillion yen ($39.9 billion) in electrification and software technologies over the next 10 years, with the Japanese automotive giant aiming to launch 30 electric vehicl… [+2924 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Marjorie Hernandez",
+      "title": "Sherri Papini signs plea deal in California kidnapping hoax - New York Post ",
+      "description": "Sherri Papini, the California “super mom” accused of orchestrating her own kidnapping in 2016 and triggered a nationwide search, has signed a plea deal, The Post has learned.",
+      "url": "https://nypost.com/2022/04/12/sherri-papini-accepts-guilt-in-kidnapping-hoax/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/04/sherri-papini-index.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2022-04-13T00:15:00Z",
+      "content": "Sherri Papini, the California super mom accused of orchestrating her own kidnapping in 2016 and triggered a nationwide search, has signed a plea deal, The Post has learned. \r\nPapini, who was facing u… [+5776 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Congress says Washington Commanders, Dan Snyder may have engaged in unlawful financial conduct - CBS Sports",
+      "description": "The House Committee on Oversight and Reform sent a 20-page letter to the Federal Trade Commission this week",
+      "url": "https://www.cbssports.com/nfl/news/congress-says-washington-commanders-dan-snyder-may-have-engaged-in-unlawful-financial-conduct/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/04/12/f8ffc40f-4c1d-401f-9b76-9079766abc90/thumbnail/1200x675/c52ca96a30f091b6147f72c6509d9a1d/dan-snyder.jpg",
+      "publishedAt": "2022-04-12T23:41:00Z",
+      "content": "Controversy has followed the Washington Commanders and owner Dan Snyder over the past few offseasons, and now, the pressure may be ramping up. Two weeks ago, Front Office Sports reported that the Com… [+3407 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Gov. DeSantis vows to dismantle minority-controlled congressional district - WPTV News - FL Palm Beaches and Treasure Coast",
+      "description": "Gov. Ron DeSantis reaffirmed a vow to dismantle a minority-controlled congressional district in Florida",
+      "url": "https://www.youtube.com/watch?v=0Gy0O2DAtGg",
+      "urlToImage": "https://i.ytimg.com/vi/0Gy0O2DAtGg/hqdefault.jpg",
+      "publishedAt": "2022-04-12T23:31:05Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Krystal Hur",
+      "title": "Cramer's lightning round: I like Tesla over Sunrun - CNBC",
+      "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+      "url": "https://www.cnbc.com/2022/04/12/cramers-lightning-round-i-like-tesla-over-sunrun.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103507383-Lightning-Round.jpg?v=1459356509&w=1920&h=1080",
+      "publishedAt": "2022-04-12T23:30:27Z",
+      "content": "Monday.com Ltd: \"They're losing too much money. So I've got to say no to Monday.\"\r\nSunrun Inc: \"I would rather own Tesla ... than own Sunrun, which is losing a lot of money.\"\r\nGores Guggenheim Inc: \"… [+590 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Jay Peters",
+      "title": "PlayStation Network experienced an outage that caused problems for PS4 and PS5 owners - The Verge",
+      "description": "Sony’s PlayStation Network status page showed that all of its services were currently experiencing issues in some way for a little while on Tuesday. The problems affected things like signing into your account and connecting to PlayStation Now and the PlayStat…",
+      "url": "https://www.theverge.com/2022/4/12/23022843/sony-playstation-network-outage-is-down-error-store-ps5-ps4",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/AQVCnNYFDVz1Un0PHdrFwy2Gopk=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22015307/vpavic_4278_20201030_0301.jpg",
+      "publishedAt": "2022-04-12T23:20:20Z",
+      "content": "Multiple services had problems\r\nPhoto by Vjeran Pavic / The Verge\r\nPlayStation Network had a bit of a rough patch Tuesday evening. For about 45 minutes, Sonys PlayStation Network status page showed t… [+1101 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Page Six" },
+      "author": "Evan Real",
+      "title": "Pregnant Britney Spears models outfits before she starts 'showing' - Page Six",
+      "description": "“So I have to model my clothes now before I really start showing 🤰🏼…” the newly pregnant pop star wrote alongside her latest Instagram fashion show.",
+      "url": "https://pagesix.com/2022/04/12/pregnant-britney-spears-models-outfits-before-she-starts-showing/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/04/britney-spears-pregnant-modeling.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2022-04-12T23:07:00Z",
+      "content": "Britney Spears treated fans to one of her signature Instagram fashion shows on Tuesday following the announcement of her third pregnancy, first with fiancé Sam Asghari. \r\nSo I have to model my clothe… [+2429 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Ed Cara",
+      "title": "Americans Gon' Wild: Gonorrhea and Syphilis at Record Highs in 2020 - Gizmodo",
+      "description": "The first year of the pandemic saw more reported gonorrhea and syphilis cases than ever, along with a rise of syphilis cases in infants.",
+      "url": "https://gizmodo.com/gonorrhea-syphilis-covid-19-pandemic-1848784716",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/73d4e21cb14911b66c68d15033f380bc.jpg",
+      "publishedAt": "2022-04-12T22:45:00Z",
+      "content": "Despite widespread lockdowns and quarantine orders, the first year of the covid-19 pandemic did not stop Americans from spreading sexually transmitted diseases. \r\nThis week, the Centers for Disease C… [+4034 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "NY lieutenant governor resigns after arrest in federal probe - PIX11 News",
+      "description": "New York Lt. Gov. Brian Benjamin has resigned in the wake of his arrest in a federal corruption investigation, creating a political crisis for Gov. Kathy Hoc...",
+      "url": "https://www.youtube.com/watch?v=Ss-5Rswi6Vo",
+      "urlToImage": "https://i.ytimg.com/vi/Ss-5Rswi6Vo/hqdefault.jpg",
+      "publishedAt": "2022-04-12T22:30:13Z",
+      "content": null
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Biden taps ethanol to help lower fuel prices as consumer inflation surges - Reuters",
+      "description": "U.S. President Joe Biden unveiled plans on Tuesday to extend the availability of higher biofuel blends of gasoline during the summer to curb soaring fuel costs and to cut reliance on foreign energy sources.",
+      "url": "https://www.reuters.com/world/us/biden-allow-higher-ethanol-fuel-sales-summer-check-gas-prices-2022-04-12/",
+      "urlToImage": "https://www.reuters.com/resizer/nsqehbGfDpZZOrEy8wjnJ3LVvik=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/S3LZTJAGBFI4TIHHHR3ADTKY6Q.jpg",
+      "publishedAt": "2022-04-12T22:30:00Z",
+      "content": "MENLO, Iowa (Reuters) - U.S. President Joe Biden unveiled plans on Tuesday to extend the availability of higher biofuel blends of gasoline during the summer to curb soaring fuel costs and to cut reli… [+4792 chars]"
+    },
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Astrid Galván",
+      "title": "Abbott's mandate for truckers causing fierce backlash - Axios",
+      "description": "Mexico is the U.S.'s biggest source of agricultural imports.",
+      "url": "https://www.axios.com/truckers-protest-abbott-texas-rules-008bd1ab-41e1-4161-abb4-d421d3ef448c.html",
+      "urlToImage": "https://images.axios.com/lbdPbUNkEI8-EK21PfzDABLMVxE=/0x0:4000x2250/1366x768/2022/04/12/1649794610909.jpg",
+      "publishedAt": "2022-04-12T21:41:27Z",
+      "content": "Commercial truckers bringing in produce and other goods from Mexico are protesting a new rule by Texas Gov. Greg Abbott requiring additional inspection, resulting in extremely long wait times and the… [+2067 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": null,
+      "title": "Real Madrid vs. Chelsea - Football Match Report - April 12, 2022 - ESPN",
+      "description": "Get a report of the Real Madrid vs. Chelsea 2021-22 UEFA Champions League, Quarterfinals football match.",
+      "url": "https://www.espn.com/soccer/report/_/gameId/633241",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0412%2Fr998830_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-04-12T21:35:49Z",
+      "content": "Karim Benzema stole the show once again as Real Madrid did just enough to eliminate Chelsea from the Champions League at the Santiago Bernabeu on Tuesday night with a 5-4 aggregate win in their quart… [+4809 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Action Network" },
+      "author": "Matt Moore",
+      "title": "Clippers vs. Timberwolves Odds, Pick, Prediction: Back Home-Court Edge in Play-In Game (Tuesday, April 12) - The Action Network",
+      "description": "Matt Moore, previews Tuesday's Western Conference Play-In Game between the Clippers and Timberwolves, including his top bet.",
+      "url": "https://www.actionnetwork.com/nba/clippers-vs-timberwolves-odds-preview-prediction-pick-nba-play-in-tournament-april-12-2022",
+      "urlToImage": "https://images.actionnetwork.com/blog/2022/04/morris-towns.jpg",
+      "publishedAt": "2022-04-12T21:32:00Z",
+      "content": "<table><tr><td>Clippers Odds</td><td>+3</td></tr><tr><td>Timberwolves Odds</td><td>-3</td></tr><tr><td>Over/Under</td><td>230.5</td></tr><tr><td>Time</td><td>9:30 p.m. ET</td></tr><tr><td>TV</td><td>… [+4924 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "The Sun",
+      "title": "‘Interstellar object’ blazed over Pacific in 2014, secret docs reveal - New York Post ",
+      "description": "The United States Space Command revealed what was the strange object flying over the southwestern Pacific in Papua New Guinea in 2014.",
+      "url": "https://nypost.com/2022/04/12/interstellar-object-blazed-over-pacific-in-2014-secret-docs-reveal/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/04/ObjectHP.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2022-04-12T21:28:00Z",
+      "content": "Top secret documents have finally been published revealing details of a mysterious object that exploded in space eight years ago.\r\nThe blazing fireball was spotted over the southwestern Pacific in Pa… [+1541 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "Meredith Deliso",
+      "title": "Health officials warn of 'large' outbreak of serious bacterial illness in Florida - ABC News",
+      "description": "",
+      "url": "https://abcnews.go.com/Health/health-officials-warn-large-outbreak-bacterial-illness-florida/story?id=84040358",
+      "urlToImage": "https://s.abcnews.com/images/Health/center-disease-control-meningococcal-disease-meningitis-florida-01-gty-llr-220412_1649791927976_hpMain_16x9_992.jpg",
+      "publishedAt": "2022-04-12T21:19:18Z",
+      "content": "Health officials are warning Florida residents about a \"large\" outbreak of a potentially fatal bacterial illness known as meningococcal disease that's primarily affecting gay and bisexual men.\r\nSo fa… [+2679 chars]"
+    }
+  ]
+}
